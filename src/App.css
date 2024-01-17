@@ -1,0 +1,61 @@
+.mainNews{
+   align-content: center; 
+   align-items: center;
+   text-align: center;
+}
+
+.News{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+
+
+.search-form {
+    display: flex;
+    margin-bottom: 20px;
+   
+
+    
+  }
+  
+  .search-form input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .search-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  /* Add more styling as needed */
+  
+
+
+
+
+
+.article-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article-image {
+    max-width: 100%;
+    height:auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Add more styling as needed */
+  
